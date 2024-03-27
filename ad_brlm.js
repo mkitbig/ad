@@ -1,4 +1,3 @@
-<script type="text/javascript">
   window._taboola = window._taboola || [];
   _taboola.push({article:'auto'});
   !function (e, f, u, i) {
@@ -14,4 +13,3 @@
   'tb_loader_script');
   if(window.performance && typeof window.performance.mark == 'function')
     {window.performance.mark('tbl_ic');}
-</script>
